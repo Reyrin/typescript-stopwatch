@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-stopwatch/static/css/main.cebb172a.css",
+    "main.js": "/typescript-stopwatch/static/js/main.423b980f.js",
+    "index.html": "/typescript-stopwatch/index.html",
+    "main.cebb172a.css.map": "/typescript-stopwatch/static/css/main.cebb172a.css.map",
+    "main.423b980f.js.map": "/typescript-stopwatch/static/js/main.423b980f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebb172a.css",
+    "static/js/main.423b980f.js"
+  ]
+}
